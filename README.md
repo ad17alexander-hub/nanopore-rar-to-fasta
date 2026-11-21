@@ -51,4 +51,8 @@ project_folder/
     └── split_sequencesMq/
         ├── project_folder.part_001.fasta
         ├── project_folder.part_002.fasta
+
+## Contributors
+- Julio C. Carrión-Olmedo ([@juliocesarcaol](https://github.com/juliocesarcaol))
+- Adrián Alexander P. Artieda ([@ad17alexander-hub](https://github.com/ad17alexander-hub))
         └── ...
